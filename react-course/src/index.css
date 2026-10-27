@@ -1,0 +1,276 @@
+/* 1.React Basics */
+
+
+/* body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+  margin: 0;
+  padding: 30px;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  font-size: 18px;
+  color: #333;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+} */
+
+/*2. Functional Components */
+
+
+/* body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+  padding: 20px;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: green;
+}
+
+p {
+  font-size: 18px;
+}
+
+ */
+
+
+ /* 3.Applying CSS Styles */
+
+ 
+/* .chapter {
+  padding: 20px;
+  margin: 20px;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+.message {
+  color: green;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.my-button {
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.my-button:hover {
+  background-color: darkblue;
+} */
+
+
+/*4. click events */
+
+
+
+/* .chapter {
+  padding: 20px;
+  margin: 20px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.chapter button {
+  background-color: royalblue;
+  color: white;
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.chapter button:hover {
+  background-color: darkblue;
+}
+ */
+
+
+ /* 5.useStateHook */
+
+ 
+/* .chapter {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+}
+
+.chapter h2 {
+  color: royalblue;
+}
+
+.chapter button {
+  padding: 10px 15px;
+  margin: 5px;
+  background: royalblue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.chapter button:hover {
+  background: darkblue;
+}
+
+.chapter input {
+  padding: 10px;
+  margin: 5px;
+} */
+
+
+/* 6.List and keys */
+
+
+/* .chapter {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+}
+
+.chapter h2 {
+  color: royalblue;
+}
+
+.chapter li {
+  margin: 12px 0;
+}
+
+.chapter button {
+  margin: 5px;
+  padding: 8px 12px;
+  background: royalblue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.chapter button:hover {
+  background: darkblue;
+}
+ */
+
+
+ /*7. Props and Prop Drilling */
+
+ 
+/* body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+}
+
+h2 {
+  color: royalblue;
+}
+
+h3 {
+  color: darkgreen;
+}
+
+div {
+  margin-bottom: 15px;
+}
+
+.student-card {
+  background-color: white;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+button {
+  background-color: royalblue;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkblue;
+} */
+
+
+/* 8.Controlled Components Inputs */
+
+
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+}
+
+.app {
+  max-width: 600px;
+  margin: auto;
+}
+
+.chapter {
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+h1,
+h2 {
+  color: royalblue;
+}
+
+label {
+  display: block;
+  margin-top: 15px;
+}
+
+input {
+  display: block;
+  width: 95%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: royalblue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkblue;
+}
